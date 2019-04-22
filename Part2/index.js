@@ -1,1 +1,3 @@
-console.log('Hello world')
+let cardId = document.getElementById('cardId')
+let cardType = document.getElementById('cardType')
+
